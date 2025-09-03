@@ -77,9 +77,9 @@ const Dashboard = () => {
                 variant="outline"
                 size="sm"
                 onClick={handleLogout}
-                className="flex items-center gap-2"
+                className="flex items-center gap-2 dark:text-white dark:bg-gray-900/80"
               >
-                <LogOut className="w-4 h-4" />
+                <LogOut className="w-4 h-4 " />
                 {t("dashboard.logout")}
               </Button>
             </div>
