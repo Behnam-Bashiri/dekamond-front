@@ -170,6 +170,22 @@ function App() {
 export default App;
 ```
 
+# Login Demo
+
+## Running with Docker
+
+To build and run the application using Docker, use the following commands:
+
+```sh
+# Build the Docker image
+docker build -t login-demo .
+
+# Run the Docker container
+docker run -p 3000:3000 login-demo
+```
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
+
 ## Contributing
 
 Contributions are welcome! Please open issues and submit pull requests.
