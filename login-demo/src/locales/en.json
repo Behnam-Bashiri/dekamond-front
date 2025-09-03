@@ -1,0 +1,34 @@
+{
+  "login": {
+    "headerTitle": "Login to your account",
+    "headerSubtitle": "Enter your phone number",
+    "cardTitle": "Login",
+    "cardDescription": "Sign in with your mobile number",
+    "phoneLabel": "Mobile Number",
+    "submit": "Login",
+    "loading": "Logging in...",
+    "footer": "By logging in, you accept the terms and conditions",
+    "invalidPhone": "The entered mobile number is invalid",
+    "successTitle": "Login successful",
+    "successDescription": "Welcome {{name}}",
+    "errorTitle": "Login error",
+    "errorGeneric": "Login failed. Please try again."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "logout": "Logout",
+    "logoutSuccessTitle": "Logout successful",
+    "logoutSuccessDescription": "You have been logged out successfully",
+    "welcomeTitle": "Welcome, {{name}}!",
+    "welcomeDescription": "You have successfully logged in",
+    "userInfo": "User Information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Mobile Number",
+    "quickActions": "Quick Actions",
+    "editProfile": "Edit Profile",
+    "accountSettings": "Account Settings",
+    "support": "Support",
+    "logoutAccount": "Logout"
+  }
+}

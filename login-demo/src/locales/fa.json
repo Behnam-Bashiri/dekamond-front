@@ -1,0 +1,34 @@
+{
+  "login": {
+    "headerTitle": "ورود به حساب کاربری",
+    "headerSubtitle": "شماره موبایل خود را وارد کنید",
+    "cardTitle": "ورود",
+    "cardDescription": "با شماره موبایل خود وارد شوید",
+    "phoneLabel": "شماره موبایل",
+    "submit": "ورود",
+    "loading": "در حال ورود...",
+    "footer": "با ورود به سیستم، شما قوانین و مقررات را می‌پذیرید",
+    "invalidPhone": "شماره موبایل وارد شده معتبر نیست",
+    "successTitle": "ورود موفق",
+    "successDescription": "خوش آمدید {{name}}",
+    "errorTitle": "خطا در ورود",
+    "errorGeneric": "خطا در ورود. لطفاً دوباره تلاش کنید."
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "logout": "خروج",
+    "logoutSuccessTitle": "خروج موفق",
+    "logoutSuccessDescription": "شما با موفقیت از حساب کاربری خارج شدید",
+    "welcomeTitle": "خوش آمدید، {{name}}!",
+    "welcomeDescription": "شما با موفقیت وارد سیستم شده‌اید",
+    "userInfo": "اطلاعات کاربری",
+    "fullName": "نام کامل",
+    "email": "ایمیل",
+    "phone": "شماره موبایل",
+    "quickActions": "عملیات سریع",
+    "editProfile": "ویرایش پروفایل",
+    "accountSettings": "تنظیمات حساب",
+    "support": "پشتیبانی",
+    "logoutAccount": "خروج از حساب"
+  }
+}
