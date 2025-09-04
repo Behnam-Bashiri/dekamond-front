@@ -1,6 +1,8 @@
 # Dekamond Front V1
 
 A modern frontend project for Dekamond.
+🚀 **Live Demo on Vercel**: [https://dekamond-front-q9bn.vercel.app/](https://dekamond-front-q9bn.vercel.app/)
+
 
 ## Table of Contents
 
